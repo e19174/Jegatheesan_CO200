@@ -9,7 +9,7 @@ const TransferForm = () => {
         email: '',
         experience: '',
         preference1: 'colombo',
-        preference2: 'colombo',
+        preference2: 'kelaniya',
         preference3: 'colombo',
         reason: '',
         file: null
