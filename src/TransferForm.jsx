@@ -8,9 +8,9 @@ const TransferForm = () => {
         Dept: '',
         email: '',
         experience: '',
-        preference1: 'colombo',
+        preference1: 'kelaniya',
         preference2: 'kelaniya',
-        preference3: 'colombo',
+        preference3: 'kelaniya',
         reason: '',
         file: null
     });
